@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Nick Robinson]]></title>
         <description><![CDATA[Nick Robinson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/music-made-me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 13:05:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Aug 2016 13:05:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/music-made-me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tommy T and the Belletones in Something New]]></title>
+            <description><![CDATA[<article><h1>Tommy T and the Belletones in Something New</h1><p>A new short video from Tommy T and the gang fooling around in Franks Garage!!!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/71e599cb7d7d13a32276a084992ea7ff/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FwCg4DBrmg6Q%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/wCg4DBrmg6Q</link>
+            <guid isPermaLink="false">05b74556-0409-4ecb-a6af-5a810a460f62</guid>
+            <pubDate>Tue, 09 Aug 2016 13:05:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tommy T and the Belletones on Tour]]></title>
             <description><![CDATA[<article><h1>Tommy T and the Belletones on Tour</h1><p>Published on May 18, 2015 An ice cream parlour isn't the usual place for sparks to fly, but when TOMMY T dropped his girl off for her last shift on the scoops, his musical life changed forever.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ffccbab7496a1d08da3c5fcf5c417b6/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Frg1S-1PAQ-E%2Fmaxresdefault.jpg"></article>]]></description>

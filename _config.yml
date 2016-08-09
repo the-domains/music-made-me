@@ -22,5 +22,8 @@ navigation:
   - name: Education
     url: 'http://www.nicholasrobinson.com/#!education/cmyu'
     type: external
+  - name: Agency
+    url: 'https://www.functionjunction.co.uk/'
+    type: external
 title: Nick Robinson
 description: it's all just music

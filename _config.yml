@@ -1,0 +1,14 @@
+layout_spectrum: 0.7212497058790177
+typography_spectrum: 0.9102587294764817
+color:
+  brandStrength: 0.9663052053656429
+  lightness: 0.5192417148500681
+  saturation: 0.18708139657974243
+  rhythmicContrast: 0.0646131404209882
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: music made me

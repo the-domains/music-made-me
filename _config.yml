@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.7212497058790177
 name: music made me
+navigation:
+  - name: Musician
+    url: 'http://www.nicholasrobinson.com/#!musician/c1myy'
+    type: external
 title: Nick Robinson
 description: it's all just music

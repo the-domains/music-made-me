@@ -19,5 +19,8 @@ navigation:
   - name: Composition
     url: 'http://www.nicholasrobinson.com/#!composition/c24g8'
     type: external
+  - name: Education
+    url: 'http://www.nicholasrobinson.com/#!education/cmyu'
+    type: external
 title: Nick Robinson
 description: it's all just music
